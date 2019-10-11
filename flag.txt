@@ -1,0 +1,30 @@
+d48e91e634fdb57f06f3a2bd83661c78fb6b7ea57072f88fe13d604357681f68425ab669d99cde908abb41c48ad927a1c1d945caa10bd61f7c287461c9017e2c
+
+^^^^ current hash to be included in email
+----
+
+congrats! you've got some basic RE & VR skilz!
+
+the flag is: smashing the stack for fun and profit is still relevant!
+
+i hope that you enjoyed this little toy i put together; i'm hoping it only took
+you about 45m to 1h to complete.
+
+if you're seeing this message, send me a copy of the code use used to pwn
+the service, any code you have from the card, your resume, and the contents
+of this file to:
+
+  pwnedit@pwning.io
+
+and if you can meet the following requirements, we probably have a job for you:
+
+* able to work in cincinnati, OH or baltimore, MD area (US only)
+* have or are able to obtain & maintain a TS security clearance
+* want know more
+
+additionally, if you have ideas on how i could make this more fun
+please include that information as well!
+
+cheers,
+
+wyatt
